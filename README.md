@@ -1,5 +1,8 @@
-# Processo_Seletivo_Tecnico_Em_Programacao_Mobile
-### Liguagens de desenvolvimento: Flutter(preferencialmente) / React Native
+# Processo Seletivo: Técnico em programação - Mobile
+
+## Informações:
+- Linguagem: Flutter(Preferencialmente) / React Native 
+- Tempo de prova: 1h30
 
 ## Demandas Gerais
 1.	Todos os textos dos componentes devem ser exatamente iguais como são escritos nesta prova, exceto quando providos de APIs;
@@ -60,3 +63,9 @@ e utilizar o princípio Slow In & Slow Out (Aceleração e Desaceleração);
 - Acessibilidade;
 - Tomadas de decisão;
 - Comportamento mediante o desafio passado;
+
+# Entrega
+- Atente-se com a entrega, crie o repositório já no início da execução da prova;
+- Encaminhar um email com o link do repositório **público** para: **paulo.brandao@sp.senai.br**, com cópia para: **oliver.silva@sp.senai.br**;
+- Assunto: Processo Seletivo Mobile Jr.
+- Mensagem contendo: nome completo;
