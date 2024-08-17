@@ -1,0 +1,78 @@
+{
+  "novidades": [
+    {
+      "banner": "https://via.placeholder.com/600x300/1",
+      "texto": "A Saber Educação lança um novo programa de bolsas de estudo para alunos de alto desempenho, incentivando o crescimento acadêmico e o acesso à educação de qualidade."
+    },
+    {
+      "banner": "https://via.placeholder.com/600x300/2",
+      "texto": "Novas instalações esportivas foram inauguradas, proporcionando aos alunos mais opções para a prática de atividades físicas e desenvolvimento de habilidades esportivas."
+    },
+    {
+      "banner": "https://via.placeholder.com/600x300/3",
+      "texto": "O laboratório de ciências foi completamente renovado, equipado com tecnologia de ponta para auxiliar no ensino e na aprendizagem de disciplinas científicas."
+    },
+    {
+      "banner": "https://via.placeholder.com/600x300/4",
+      "texto": "A escola implementou um novo sistema de ensino híbrido, combinando aulas presenciais e online para oferecer maior flexibilidade aos estudantes."
+    },
+    {
+      "banner": "https://via.placeholder.com/600x300/5",
+      "texto": "Lançamos um clube de leitura para incentivar os alunos a desenvolverem o hábito da leitura e a apreciação pela literatura."
+    },
+    {
+      "banner": "https://via.placeholder.com/600x300/6",
+      "texto": "Parceria com empresas locais para oferecer estágios e oportunidades de emprego aos alunos do ensino médio, preparando-os para o mercado de trabalho."
+    },
+    {
+      "banner": "https://via.placeholder.com/600x300/5",
+      "texto": "Lançamos um clube de leitura para incentivar os alunos a desenvolverem o hábito da leitura e a apreciação pela literatura."
+    },
+    {
+      "banner": "https://via.placeholder.com/600x300/6",
+      "texto": "Parceria com empresas locais para oferecer estágios e oportunidades de emprego aos alunos do ensino médio, preparando-os para o mercado de trabalho."
+    },
+    {
+      "banner": "https://via.placeholder.com/600x300/4",
+      "texto": "A escola implementou um novo sistema de ensino híbrido, combinando aulas presenciais e online para oferecer maior flexibilidade aos estudantes."
+    },
+    {
+      "banner": "https://via.placeholder.com/600x300/2",
+      "texto": "Novas instalações esportivas foram inauguradas, proporcionando aos alunos mais opções para a prática de atividades físicas e desenvolvimento de habilidades esportivas."
+    }
+  ],
+  "colaboradores": [
+    {
+      "nome": "Ana Almeida",
+      "cargo": "ASA"
+    },
+    {
+      "nome": "Beatriz Silva",
+      "cargo": "AQV"
+    },
+    {
+      "nome": "Cristiano Brandão",
+      "cargo": "IFP III"
+    },
+    {
+      "nome": "Douglas Coelho",
+      "cargo": "IFP II"
+    },
+    {
+      "nome": "Eduardo Silva",
+      "cargo": "ASA"
+    },
+    {
+      "nome": "Fabrício da Costa",
+      "cargo": "IFP III"
+    },
+    {
+      "nome": "Gabriel Batista",
+      "cargo": "IFP II"
+    },
+    {
+      "nome": "Jonas Alves",
+      "cargo": "IFP III"
+    }
+  ]
+}

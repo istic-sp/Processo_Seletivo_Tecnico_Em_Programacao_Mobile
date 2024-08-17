@@ -1,15 +1,62 @@
 # Processo_Seletivo_Tecnico_Em_Programacao_Mobile
+### Liguagens de desenvolvimento: Flutter(preferencialmente) / React Native
 
-### Demandas Gerais
-
-1.	Todos os textos dos componentes devem ser exatamente iguais como são escritos neste Projeto Teste;
+## Demandas Gerais
+1.	Todos os textos dos componentes devem ser exatamente iguais como são escritos nesta prova, exceto quando providos de APIs;
 2.	O protótipo deve seguir os padrões de acessibilidade entre os textos e os fundos dos componentes;
 3.	Todas as páginas devem ter melhorias no design;
 4.	Você não precisa usar exatamente todos os recursos disponibilizados em media-files; 
-5.	Deve haver links entre todas as telas e botões; 
-6.	Em todas as telas que o menu é exibido, ele deve ser funcional, levado o(a) usuário(a) para a respectiva tela;
-7.	Ao dar um tap no avatar, o(a) usuário(a) deve ser redirecionado(a) para a tela “Meu Perfil”;
-8.	Deve ser possível alternar entre os temas Dark e Light Mode nas telas “Home”, “Minha Equipe”, “Meu Perfil”;
-9.	Você deve seguir a guia de estilos abaixo para desenvolver o aplicativo e suas funcionalidades: 
-
+5.	Você deve seguir a guia de estilos abaixo para desenvolver o aplicativo e suas funcionalidades:
 ![Guia de Estilos](style_guide.png)
+
+## 01 - Tela Home
+![01 - Tela Home](1-home.png)
+
+### Componentes Visuais
+1.	Avatar para acionar a tela “Meu Perfil”;
+2.	Texto “Bom-dia, usuária!”;
+3.	Ícone de logout;
+4.	Menu inferior com as opções:
+“Home”, “UC’s”, “Estudantes”, “SAP” e “Meu Perfil”; 
+5.	Título “Painel”;
+6.	Card com Porcentagem de Evasão com o valor: 15%;
+7.	Card com Porcentagem de Empregabilidade com o valor: 77%;
+8.	Botão “Acessar Equipe”;
+9.	Subtítulo “Atualizações da Edu360°”;
+10.	Cards das atualizações conforme wireframe.
+
+### Requisitos Funcionais
+1.	A tela deve apresentar animação de entrada dos componentes visuais, essa animação deve ser encadeada e utilizar o princípio Slow In & Slow Out (Aceleração e Desaceleração);
+2.	O carrossel deve ser funcional tanto ao dar um tap e arrastar para os lados quanto pelas setas;
+3.	A tela deve apresentar animação de saída dos componentes visuais, essa animação deve ser encadeada e utilizar o princípio Slow In & Slow Out (Aceleração e Desaceleração);
+
+## 02 - Tela Minha Equipe
+![02 - Tela Minha Equipe](2-minha-equipe.png)
+
+### Componentes Visuais
+1.	Avatar para acionar a tela “Meu Perfil”;
+2.	Texto “Bom-dia, usuária!”;
+3.	Ícone de logout;
+4.	Menu inferior com as opções:
+“Home”, “UC’s”, “Estudantes”, “SAP” e “Meu Perfil”; 
+5.	Título “Minha Equipe”;
+6.	Tabela com colunas e dados conforme wireframe.
+
+
+### Requisitos Funcionais
+1.	A tela deve apresentar animação de entrada
+dos componentes visuais, essa animação deve ser encadeada
+e utilizar o princípio Slow In & Slow Out (Aceleração e Desaceleração);
+2.	A lista de colaboradores(as) deve ser exibida de forma alfabética;
+3.	As informações referentes a equipe da coordenação devem ser
+consumidas através da API fornecida em media-files; 
+4.	A tela deve apresentar animação de saída
+dos componentes visuais, essa animação deve ser encadeada
+e utilizar o princípio Slow In & Slow Out (Aceleração e Desaceleração);
+
+# Critérios de Avaliação
+- Qualidade do código e estrutura de diretórios;
+- Qualidade da implementação do Design;
+- Acessibilidade;
+- Tomadas de decisão;
+- Comportamento mediante o desafio passado;
